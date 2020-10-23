@@ -16,24 +16,7 @@ If you are also interested in presenting a topic for future Ruby Tuesday, contac
 - As guess: https://github.com/saigon-rb/ruby-meetup 
 
 ### Past events
-[Meetup #1](https://www.meetup.com/saigon-rb/events/271641938/) 
-- Presentation: https://github.com/saigon-rb/ruby-meetup/issues?q=milestone%3A%22Meetup+%231%22
-- Time: August 4, 2020
-- Location: WeWork Lim Tower 3
-- Sponsor: NimbleHQ
-
-[Meetup #2](https://www.meetup.com/saigon-rb/events/271642088/) 
-- Presentation: https://github.com/saigon-rb/ruby-meetup/issues?q=milestone%3A%22Meetup+%232%22
-- October 6, 2020
-- Location: WeWork Lim Tower 3
-- Sponsor: NimbleHQ, Raksul
-
-### Upcoming event
-[Meetup #3](https://www.meetup.com/saigon-rb/events/271642096/)
-- Presentation: (updating)
-- December 1, 2020
-- Location: WeWork Lim Tower 3
-- Sponsor: NimbleHQ
+- You can review previous meetup events at [our wiki](https://github.com/saigon-rb/ruby-meetup/wiki).
 
 ## Hiring
 - If your company is hiring, please do send us the information so we can help you spread the word.
