@@ -18,7 +18,8 @@ If you want to code a little and exchange ideas, please bring your laptop ðŸ‘¨â€
 
 
 ## Registration
-If you are also interested in presenting a topic for future Ruby Tuesday, contact us!
+
+If you are also interested in presenting a topic for future Ruby Tuesday, don't hesitate to contact us!
 
 - As speaker: https://forms.gle/K9mHk1GSfchNSdxZ7
 
