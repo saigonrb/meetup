@@ -1,4 +1,4 @@
-<h1 align="center">Welcome to  Ruby Meetup</h1>
+<h1 align="center">Welcome to Ruby Tuesday Meetup 🎉</h1>
 
 **Ruby Tuesday** is a bi-monthly Ruby meetup, conducted on the first Tuesday of every two month. This is a space for everyone, beginners and guru experts alike, to share knowledge as well as learn from each other. 
 
